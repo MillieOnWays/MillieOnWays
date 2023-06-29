@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![005-html-5-1](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/3b027900-4f37-4c7b-ab1b-4fe691cc67ea)
+![008-css-1](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/4d9d68b2-3ec9-4e9b-b500-93e69c5553ac)
+![009-js](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/4c74653c-de88-4887-87ee-76582b037119)
