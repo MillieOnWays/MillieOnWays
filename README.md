@@ -4,7 +4,7 @@
 My focus now is on becoming a part of a company where I can grow and develop and I am open to internships, apprenticeships, and junior roles. 
 Please, take a look at my work and contact me for further discussion!</p>
 <br>
-🛠 & 💻 Tools and Technologies: 
+<h4>🛠 & 💻 Tools and Technologies: </h4>
 <br><br>
 👩🏻‍💻 Languages:
 <div>
