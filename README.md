@@ -4,8 +4,8 @@
 My focus now is on becoming a part of a company where I can grow and develop and I am open to internships, apprenticeships, and junior roles. 
 Please, take a look at my work and contact me for further discussion!</p>
 <br>
-<h4>🛠 & 💻 Tools and Technologies: </h4>
-<br><br>
+<h3>🛠 & 💻 Tools and Technologies: </h3>
+<br>
 👩🏻‍💻 Languages:
 <div>
  <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
