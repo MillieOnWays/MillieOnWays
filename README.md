@@ -1,8 +1,8 @@
 
  <div align="center"> <h2> Hi there, I'm Millie 🏄🏼‍♀️ </h2> </div> 
-<h3>A Junior JavaScript developer who is passionate about Front End development and building dynamic and interactive web applications, as it perfectly aligns with my creative and problem-solving nature. 
+<p>A Junior JavaScript developer who is passionate about Front End development and building dynamic and interactive web applications, as it perfectly aligns with my creative and problem-solving nature. 
 My focus now is on becoming a part of a company where I can grow and develop and I am open to internships, apprenticeships, and junior roles. 
-Please, take a look at my work and contact me for further discussion!</h3>
+Please, take a look at my work and contact me for further discussion!</p>
 <br>
 🛠 & 💻 Tools and Technologies: 
 <br>
