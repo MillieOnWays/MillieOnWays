@@ -29,11 +29,12 @@ Please, take a look at my work and contact me for further discussion!</p>
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
  <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" alt="Terminal"/>
 </div>
-
+<br>
  Also, find me here:
+ <div>
 <a href="https://www.linkedin.com/in/lprokofeva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/millieonways/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
-
+</div>
 
 <!--
 **MillieOnWays/MillieOnWays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
