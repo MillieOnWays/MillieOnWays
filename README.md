@@ -2,14 +2,13 @@
 ### Hi there, I'm Millie 🏄🏼‍♀️
 
 🛠 & 💻 Tools and Technologies:
-![html-css-js](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/9339f74c-45a6-4cf6-9ade-5ce0306805ff)
-![Html-logo](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/79d38821-3c24-4ebd-99fb-20e435b1c1d2)
-![CSS-logo](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/beb670b8-999c-4aa4-a14a-4ad20c1c2d0b)
-![JavaScript-logo](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/1c65ba08-7268-4b04-958e-77159eb0bb51)
-![React-logo](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/55fc4e09-65c8-4b04-b896-0effc48dfff2)
-![VSCode-logo](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/d1069494-ca89-4cde-9af4-60c1bfee601a)
-![ITerminal-logo](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/bebeca80-98ef-4095-a24b-c345140ff709)
-![Git&GitHub-logo](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/0ac7e344-b337-4647-94cb-b6e9cb29490a)![git](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/f8896923-8d68-412c-adc6-eab457420db7)
+![Html-logo](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/98c93077-d1d9-471a-a413-e8e5cf7a4560)
+![CSS-logo](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/73e728e1-5be6-4a49-9b8d-e612976d04ce)
+![JavaScript-logo](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/3a3f9ee3-f7c9-4501-bc90-910ea5d2205d)
+![React-logo](https://github.com/MillieOnWays/MillieOnWays/assets/90930257/2b601f4f-f08d-4eab-8a8b-0ddd56c4ec7c)
+![VSCode-logo]
+![ITerminal-logo]
+![Git&GitHub-logo]
 <!--
 **MillieOnWays/MillieOnWays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
