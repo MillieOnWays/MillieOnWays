@@ -1,5 +1,6 @@
 
-### Hi there, I'm Millie 🏄🏼‍♀️
+ <div align="center"> ### Hi there, I'm Millie 🏄🏼‍♀️ </div> 
+<hr>
 <br>
 🛠 & 💻 Tools and Technologies: 
 <div>
