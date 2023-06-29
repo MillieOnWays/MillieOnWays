@@ -5,7 +5,7 @@ My focus now is on becoming a part of a company where I can grow and develop and
 Please, take a look at my work and contact me for further discussion!</p>
 <br>
 🛠 & 💻 Tools and Technologies: 
-<br>
+<br><br>
 👩🏻‍💻 Languages:
 <div>
  <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
