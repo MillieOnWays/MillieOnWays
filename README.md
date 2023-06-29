@@ -1,6 +1,5 @@
 
  <div align="center"> <h2> Hi there, I'm Millie 🏄🏼‍♀️ </h2> </div> 
-<hr>
 <br>
 🛠 & 💻 Tools and Technologies: 
 <div>
