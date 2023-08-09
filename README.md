@@ -7,7 +7,7 @@ I'm actively seeking opportunities to evolve as a JavaScript developer, and I'm 
 Please review my work and don't hesitate to reach out for further conversation!</p>
  
 Find me here:
- 
+<div>
 <a href="https://www.linkedin.com/in/lprokofeva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/millieonways/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="" ><img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
