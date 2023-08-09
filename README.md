@@ -1,14 +1,16 @@
 
- <div align="center"> <h2> Hi there, I'm Millie 🏄🏼‍♀️ </h2> </div> 
-<p>A Junior JavaScript developer who is passionate about Front End development and building dynamic and interactive web applications, as it perfectly aligns with my creative and problem-solving nature. 
-My focus now is on becoming a part of a company where I can grow and develop and I am open to internships, apprenticeships, and junior roles. 
-Please, take a look at my work and contact me for further discussion!</p>
-<br>
+ <div align="center"> <h2> Hi everyone, I'm Millie 🏄🏼‍♀️ </h2> </div> 
+<p> I'm a recent career changer dedicated to becoming a Front End developer as it perfectly aligns with my creative and problem-solving nature. 
+I've been fully committed to my studies, gaining a strong foundation in HTML, CSS, and JavaScript, including modern frameworks like React. My background in customer-oriented fields also equips me with valuable soft skills. 
+I'm actively seeking opportunities to evolve as a JavaScript developer, and I'm open to internships, apprenticeships, and junior positions. Please review my work and don't hesitate to reach out for further conversation!</p>
+
 Find me here:
  <div>
 <a href="https://www.linkedin.com/in/lprokofeva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/millieonways/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
+<a href="https://www.instagram.com/millieonways/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="" ><img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
 </div>
+
 <h3>🛠 & 💻 Tools and Technologies: </h3>
 <br>
 👩🏻‍💻 Languages:
