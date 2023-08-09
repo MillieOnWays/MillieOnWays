@@ -2,9 +2,10 @@
 <div align="center"> 
 <h2> Hi everyone, I'm Millie 🏄🏼‍♀️ </h2> 
 <p> I'm a recent career changer dedicated to becoming a Front End developer as it perfectly aligns with my creative and problem-solving nature.<br>
-I've been fully committed to my studies, gaining a strong foundation in HTML, CSS, and JavaScript, including modern frameworks like React.<br>
+I've been fully committed to my studies, gaining a strong foundation in HTML, CSS, and JavaScript, including modern frameworks like React. <br>
 My background in customer-oriented fields also equips me with valuable soft skills.<br> 
-I'm actively seeking opportunities to evolve as a JavaScript developer, and I'm open to internships, apprenticeships, and junior positions.<br> Please review my work and don't hesitate to reach out for further conversation!</p>
+I'm actively seeking opportunities to evolve as a JavaScript developer, and I'm open to internships, apprenticeships, and junior positions.<br> 
+Please review my work and don't hesitate to reach out for further conversation!</p>
 </div> 
 Find me here:
  <div>
