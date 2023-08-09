@@ -1,14 +1,13 @@
 
-<div align="center"> 
-<h2> Hi everyone, I'm Millie 🏄🏼‍♀️ </h2> 
-<p> I'm a recent career changer dedicated to becoming a Front End developer as it perfectly aligns with my creative and problem-solving nature.<br>
-I've been fully committed to my studies, gaining a strong foundation in HTML, CSS, and JavaScript, including modern frameworks like React. <br>
-My background in customer-oriented fields also equips me with valuable soft skills.<br> 
-I'm actively seeking opportunities to evolve as a JavaScript developer, and I'm open to internships, apprenticeships, and junior positions.<br> 
+<div align="center"> <h2> Hi everyone, I'm Millie 🏄🏼‍♀️ </h2> <div>
+<p> I'm a recent career changer dedicated to becoming a Front End developer as it perfectly aligns with my creative and problem-solving nature.
+I've been fully committed to my studies, gaining a strong foundation in HTML, CSS, and JavaScript, including modern frameworks like React.
+My background in customer-oriented fields also equips me with valuable soft skills.
+I'm actively seeking opportunities to evolve as a JavaScript developer, and I'm open to internships, apprenticeships, and junior positions. 
 Please review my work and don't hesitate to reach out for further conversation!</p>
-</div> 
+ 
 Find me here:
- <div>
+ 
 <a href="https://www.linkedin.com/in/lprokofeva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/millieonways/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="" ><img src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
