@@ -6,7 +6,7 @@ My background in customer-oriented fields also equips me with valuable soft skil
 I'm actively seeking opportunities to evolve as a JavaScript developer, and I'm open to internships, apprenticeships, and junior positions. 
 Please review my work and don't hesitate to reach out for further conversation!</p>
  
-Find me here:
+<h3>🤝 👯‍♀️ Find me here:</h3>
 <div>
 <a href="https://www.linkedin.com/in/lprokofeva/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/millieonways/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
